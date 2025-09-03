@@ -1,1 +1,0 @@
-SELECT * FROM argo_measurements LIMIT 100;
