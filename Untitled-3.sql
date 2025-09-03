@@ -1,0 +1,1 @@
+SELECT COUNT(*) FROM argo_measurements;
